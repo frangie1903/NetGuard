@@ -18,7 +18,7 @@ Desarrollar una solución que permita monitorear y gestionar dispositivos de red
 - SSH
 
 ## Integrantes
-- [Frangie Gabriel Fermin Almanzar]
+- Frangie Gabriel Fermin Almanzar
 
 ## Estado inicial del proyecto
 Proyecto en etapa inicial de planificación y organización.
